@@ -1,1 +1,25 @@
-
+<!DOCTYPE html> 
+<html lang="en"> 
+    <head> <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>All About Bats</title> </head> <body> <header> <h1>All About Bats</h1> 
+    <h2>The fascinating creatures of the night</h2> </header> <main> <section> <h2>Introduction to Bats</h2> 
+    <p>Bats are the only mammals capable of sustained flight. They belong to the order Chiroptera, which means "hand-wing."</p> 
+    <p>With over 1,400 species, bats play crucial roles in ecosystems, from pollination to pest control.</p> 
+    </section> <section> <h2>Types of Bats</h2> 
+    <p>There are two main types of bats:</p>
+ <ul> <li><strong>Fruit bats</strong> (Megabats): Often larger and feed on fruits and nectar.
+    </li> <li><strong>Microbats</strong>: Smaller and use echolocation to hunt insects.
+    </li> </ul> </section> <section> <h2>Why Bats are Important</h2> 
+    <p>Bats contribute to the environment by:</p> <ul>
+ <li>Pollinating plants like bananas and mangoes.</li> <li>Controlling insect populations by eating pests.</li> <li>Spreading seeds for forest growth.</li> 
+    </ul> </section> <section> 
+    <h2>Gallery of Bats</h2> <p>Below are some images of bats:</p> 
+    <figure> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftremblantexpress.com%2Fen%2Fla-chauve-souris-porte-bonheur%2F&psig=AOvVaw01EV8QfO9m3XAAt5BCSE7c&ust=1738246872469000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDT57GQm4sDFQAAAAAdAAAAABAP" alt="A flying bat" width="400"> 
+      <figcaption>Image 1: A bat in flight (Photo by [Martin Pelanek]).</figcaption> </figure> 
+    <figure> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fhanging-bat&psig=AOvVaw0C5AQcjim35SL2jbj_EHd1&ust=1738247673804000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiw5KyTm4sDFQAAAAAdAAAAABAP
+      " alt="A fruit bat hanging from a tree" width="400"> <figcaption>Image 2: A fruit bat hanging from a tree (Photo by [CraigRJD]).</figcaption> </figure> 
+   <figure> <img src="https://sunshinecoastcouncil.netlify.app/.netlify/images?w=960&h=1287&fm=webp&q=80&url=https:%2F%2Fassets-au-scc.kc-usercontent.com:443%2F330b87ea-148b-3ecf-9857-698f2086fe8d%2F9d719a0c-83e4-47de-b604-3d3344beac81%2F224BEE93-7587-45A2-8F15-572ABA429E3D
+      " alt="A microbat" width="400"> <figcaption>Image 3: A microbat resting during the day (Photo by [Aaron Chapman]).</figcaption> </figure> </section> 
+    </main> <footer> <p>Learn more about bats at <a href="https://www.batcon.org" target="_blank">Bat Conservation International</a>.</p> 
+    <p>&copy; 2025 All About Bats. All rights reserved.</p> </footer> </body> </html>
