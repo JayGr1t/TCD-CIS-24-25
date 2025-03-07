@@ -1,1 +1,28 @@
-
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, intial-scale=1.0">
+     <title>Empty HTML Page</title>
+     <link rel="stylesheet" href="style.css">   
+    </head>
+     <body>
+        <figure>
+            <figcaption> Dexter image</figcaption>
+    <picture>
+        <source
+        srcsrt="image/image-small.webp"
+        media="(max-width: 600px)"/>
+    <source
+        srcset="image/image-small.jpg"
+        media="(max-width: 600px)"/>
+    <source
+    srcset="image/image-large.webp" />
+    <source
+    srcset="image/image-large.jpg" />
+    <img src="image/image-small100.jpg" alt="Dexter image" />
+    
+    </picture>
+  </figure>
+</body>
+</html>
